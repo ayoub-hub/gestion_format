@@ -1,0 +1,104 @@
+
+h1
+{
+	text-align: center;
+    background-color: black;
+    color: white;
+    opacity: 0.3;
+}
+body
+{
+    border: 5px blue inset;
+    margin: 100px;
+    padding: 30px;
+}
+form
+{
+	    border: 3px blue inset;
+
+}
+h2,h3
+{
+	text-align: center;
+}
+.info
+{
+	margin-left: auto;
+  margin-right: auto;
+}
+.des
+{
+	  text-decoration: underline blue;
+      font-family: Times New Roman;
+      font-size: 30px;
+}
+.bas
+{
+	font-family: Brush Script MT;
+	font-size: 100px;
+  text-decoration: underline blue
+
+}
+
+{
+		  text-decoration: underline;
+
+}
+img
+{
+	margin-top: 25px;
+}
+.icon
+{
+   text-align: right;
+}
+.foot
+{
+	margin-left: auto;
+  margin-right: auto;
+}
+
+.t1 {
+  
+  	  text-decoration: underline blue;
+    font-size: 30px;
+    margin-left: auto;
+  margin-right: auto; 
+         
+
+}
+.dat
+{
+  
+  text-decoration: underline blue;
+  font-size: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  
+
+}
+.cord
+{
+			  	text-align: center;
+			  	font-family: Times New Roman ;
+	            font-size: 30px;
+	            text-decoration: underline blue;
+	            word-spacing: 6px;
+
+
+}
+hr.new5 {
+  border: 10px solid red;
+  border-radius: 5px;
+  width: 1000px;
+}
+img.signature
+{
+	
+	margin-bottom: 50px;
+}
+table{
+  border: 5px blue inset;
+    margin: 100px;
+    padding: 30px;
+}
